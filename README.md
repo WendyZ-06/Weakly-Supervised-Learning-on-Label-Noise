@@ -5,13 +5,14 @@
 
 Term: Spring 2023
 
-+ Team ##
++ Team 6
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Luke Arceneaux (lpa2114)
+	+ Kejun Liu (kl3434)
+	+ Srushti Divyesh Sanghavi (ss6594)
+	+ Qingyang Tang (qt2148)
+	+ Wenchang Zhu (wz2632)
+	+ Xinyu Zhu (xz3136)
 
 + Project summary: In this project, we created ...
 	
