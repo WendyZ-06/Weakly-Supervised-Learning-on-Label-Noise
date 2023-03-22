@@ -17,7 +17,7 @@ Term: Spring 2023
 + Project summary: In this project, we created 3 models to classify the images. The baseline model is the logistic regression model, which yields a relatvely low accuracy of around 24%. The Model I uses CNN(convolutional neural network) and has a better accuracy of about 45%. The Model II uses neural network based method to clean the noisy labels and then applys same method of Model I. It has a better perfomance of reaching accuracy around 55%.
 	
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) For this project, all members tried some simpler models like decison trees and random forest. Next, Srushti,Kejun and Wenchang worked on Model. Luke, Qingyang and Xinyu worked on Model II. All members atteneded group meetings and helped each other in understanding project requirements and fixing the code  . All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) For this project, all members tried some simpler models like decison trees and random forest. Next, Srushti,Kejun and Wenchang worked on Model I. Luke, Qingyang and Xinyu worked on Model II. All members atteneded group meetings and helped each other in understanding project requirements and fixing the code  . All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 
 
