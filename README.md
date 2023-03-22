@@ -17,29 +17,10 @@ Term: Spring 2023
 + Project summary: In this project, we created 3 models to classify the images. The baseline model is the logistic regression model, which yields a relatvely low accuracy of around 24%. The Model I uses CNN(convolutional neural network) and has a better accuracy of about 40%. The Model II uses neural network based method to clean the noisy labels and then applys same method of Model I. It has a better perfomance of reaching accuracy around 50%.
 	
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
-
-Luke Arceneaux:
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) For this project, all members tried some simpler models like decison trees and random forest. Next, Srushti,Kejun and Wenchang worked on Model I and decided mainly use Srushiti's model. Luke, Qingyang and Xinyu worked on Model II and decided to use Luke's model. All members atteneded group meetings and helped each other in understanding project requirements and fixing the code  . All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 
 
-Kejun Liu:
-
-
-
-Srushti Divyesh Sanghavi:
-
-
-
-Qingyang Tang: Explore simpler models including random forest and decision trees in first stage. Built a QBC(query-by-committee) approach in model II for weakly supervised learning method.
-
-
-
-Wenchang Zhu:
-
-
-
-Xinyu Zhu:
 
 
 
