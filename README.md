@@ -1,9 +1,6 @@
 # Weakly Supervised Learning - Label Noise Correction
 
-
-### [Full Project Description](doc/project3_desc.md)
-
-Term: Spring 2023
+## Image Classification
 
 + Team 6
   + Luke Arceneaux
