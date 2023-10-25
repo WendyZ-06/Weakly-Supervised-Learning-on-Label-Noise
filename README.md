@@ -6,13 +6,12 @@
 Term: Spring 2023
 
 + Team 6
-+ Team members
-	+ Luke Arceneaux (lpa2114)
-	+ Kejun Liu (kl3434)
-	+ Srushti Divyesh Sanghavi (ss6594)
-	+ Qingyang Tang (qt2148)
-	+ Wenchang Zhu (wz2632)
-	+ Xinyu Zhu (xz3136)
+  + Luke Arceneaux
+	+ Kejun Liu
+	+ Srushti Divyesh Sanghavi
+	+ Qingyang Tang
+	+ Wenchang Zhu
+	+ Xinyu Zhu
 
 + Project Summary:
   In this project, we created 3 models to classify the images. The baseline model is the logistic regression model, which yields a relatively low accuracy of around 24%. The Model I uses CNN(convolutional neural network) and has a better accuracy of about 47.6%. Model II uses a VGG network to clean the noisy labels and then applies the same method as Model I. It has a better performance reaching accuracy around 58.3%.
